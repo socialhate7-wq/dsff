@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ad_init_01",
+    "title": "Elena 24 años nueva en el centro, simpática y divertida",
+    "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+    "phone": "+34 612 89 45 23",
+    "normalizedPhone": "34612894523",
+    "hasWhatsapp": true,
+    "whatsappUrl": "https://wa.me/34612894523?text=Hola,%20he%20visto%20tu%20anuncio",
+    "sourceUrl": "https://www.mundosexanuncio.com/madrid/",
+    "location": "Madrid Centro",
+    "category": "Anuncios",
+    "scrapedAt": "2026-10-06T08:16:46.344Z",
+    "sourceSite": "mundosexanuncio.com",
+    "notes": "Disponibilidad tardes y fines de semana",
+    "status": "favorito"
+  },
+  {
+    "id": "ad_init_02",
+    "title": "Carla morena independiente en Eixample, trato muy agradable",
+    "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&q=80",
+    "phone": "+34 678 12 34 56",
+    "normalizedPhone": "34678123456",
+    "hasWhatsapp": true,
+    "whatsappUrl": "https://wa.me/34678123456?text=Hola,%20he%20visto%20tu%20anuncio",
+    "sourceUrl": "https://www.mundosexanuncio.com/barcelona/",
+    "location": "Barcelona",
+    "category": "Anuncios",
+    "scrapedAt": "2026-10-06T05:16:46.344Z",
+    "sourceSite": "mundosexanuncio.com",
+    "notes": "",
+    "status": "nuevo"
+  },
+  {
+    "id": "ad_init_03",
+    "title": "Lucía dulce y cariñosa cerca de Ruzafa, fotos 100% reales",
+    "imageUrl": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=600&q=80",
+    "phone": "+34 695 78 90 12",
+    "normalizedPhone": "34695789012",
+    "hasWhatsapp": true,
+    "whatsappUrl": "https://wa.me/34695789012?text=Hola,%20he%20visto%20tu%20anuncio",
+    "sourceUrl": "https://www.mundosexanuncio.com/valencia/",
+    "location": "Valencia",
+    "category": "Anuncios",
+    "scrapedAt": "2026-10-05T22:16:46.344Z",
+    "sourceSite": "mundosexanuncio.com",
+    "notes": "Contactada por WhatsApp. Muy amable.",
+    "status": "contactado"
+  }
+]
